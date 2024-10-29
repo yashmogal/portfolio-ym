@@ -30,7 +30,8 @@
     "image": "/VSCODE.png",
     "description": "A themeable and developer-centric portfolio based on the VSCode",
     "tags": ["next", "css-modules"],
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "source_code":"https://github.com/yashmogal/portfolio-ym",
+    "demo": "https://portfolio-mys.netlify.app/"
   },
   {
     "id": 5,
