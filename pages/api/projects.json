@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Chess Game",
+    "image": "https://imgur.com/Vsw8VHY.jpeg",
+    "description": "An interactive platform for players to enjoy multiplayer chess games, featuring real-time gameplay and smooth WebSocket integration.",
+    "tags": ["react", "node", "mongodb", "tailwind"],
+    "demo": "https://reactchess.onrender.com/"
+  },
+  {
+    "id": 2,
+    "name": "StudyNotion",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "StudyNotion is a scalable educational platform with dynamic ReactJs interfaces, MongoDB storage, and seamless collaboration features.",
+    "tags": ["react", "node", "mongodb", "redux", "razorpay", "tailwind"],
+    "demo": "https://studynotion-frontend.vercel.app/"
+  },
+  {
+    "id": 3,
+    "name": "NetflixGPT",
+    "image": "https://imgur.com/CIBULCG.png",
+    "description": "NetflixGPT is a React-based movie discovery app with Firebase authentication, offering personalized recommendations and detailed movie info.",
+    "tags": ["react", "redux",  "tailwind"],
+    "source_code": "https://github.com/yashmogal/netflix-gpt",
+    "demo": "https://netflixgpt.azurewebsites.net/"
+  },
+  {
+    "id": 4,
+    "name": "VSCode Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["next", "css-modules"],
+    "demo": "http://vscode-portfolio.vercel.app/"
+  },{
+    "id": 5,
+    "name": "YouTube Clone",
+    "image": "https://imgur.com/FwUCnbF.png",
+    "description": "YouTube Clone is a React app with Redux for state management and Tailwind CSS for responsive design, supporting 1080p video playback and user authentication for over 1,000 users.",
+    "tags": ["react", "css-modules"],
+    "source_code":"https://github.com/yashmogal/Youtube-Clone",
+    "demo": "https://youtube-clone-ym.netlify.app/"
+  }
+]
